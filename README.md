@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🖥️ Developer in the making — working with **Test me on Python and C#**
+- 🖥️ Developer in the making — test me on **Python and C#**
 - 🐧 Daily driver: **Linux Pop!_OS** 
 - 🎮 Gamer — **Counter Strike Amature PRO**
 - 📚 Exploring **cloud (Azure), Machine Learning and Data Science** 
