@@ -2,6 +2,8 @@
 
 # 👋 Hey, I'm Logan
 
+---
+
 🎓 Bachelor of Information & Communication Technology (Double Major in **Software Engineering** & **Web Development**)  
 📍 Manawatu, New Zealand  
 📧 [Email](mailto:Younglogan09@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/logan-young-00ab7a327/) | </> [GitHub](https://github.com/LoganShmogan)
