@@ -11,7 +11,7 @@
 ## 🚀 About Me
 - 🖥️ Developer in the making — test me on **Python and C#**
 - 🐧 Daily driver: **Linux Pop!_OS** 
-- 🎮 Gamer — **Counter Strike Amature PRO** 🔶 [FaceIT](https://csst.at/profile/loganshmogan)
+- 🎮 Gamer — **Counter Strike Amature PRO** - 🔶 [FaceIT](https://csst.at/profile/loganshmogan)
 - 📚 Exploring **cloud (Azure), Machine Learning and Data Science** 
 - 📈 Focused on balancing **coding projects** with **snowboarding slopes**
 
