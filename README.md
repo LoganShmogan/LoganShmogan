@@ -21,7 +21,7 @@
 - **Languages:** C#, Python, JavaScript/TypeScript, SQL  
 - **Frameworks:** Express.js, AdonisJS, Django, Vue, React, Svelte, WPF  
 - **Databases:** SQLite, MySQL  
-- **Other:** Git/GitHub, Linux systems, Virtualization, Docker basics
+- **Other:** Git/GitHub, Linux systems, Virtualization
   
 ---
 
