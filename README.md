@@ -4,14 +4,14 @@
 
 🎓 Bachelor of Information & Communication Technology (Double Major in **Software Engineering** & **Web Development**)  
 📍 Manawatu, New Zealand  
-📧 [Email](mailto:Younglogan09@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/logan-young-00ab7a327/) | 🐙 [GitHub](https://github.com/LoganShmogan)
+📧 [Email](mailto:Younglogan09@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/logan-young-00ab7a327/) | </> [GitHub](https://github.com/LoganShmogan)
 
 ---
 
 ## 🚀 About Me
 - 🖥️ Developer in the making — test me on **Python and C#**
 - 🐧 Daily driver: **Linux Pop!_OS** 
-- 🎮 Gamer — **Counter Strike Amature PRO**
+- 🎮 Gamer — **Counter Strike Amature PRO** 🔶 [FaceIT]([https://csst.at/profile/loganshmogan])
 - 📚 Exploring **cloud (Azure), Machine Learning and Data Science** 
 - 📈 Focused on balancing **coding projects** with **snowboarding slopes**
 
