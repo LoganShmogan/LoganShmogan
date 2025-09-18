@@ -32,7 +32,7 @@
 - **Certificate in IT Essentials (Level 4)** – UCOL (2023)  
 - **ICT Innovation (Level 3)** – UCOL (2021)  
 - **NCEA Level 1 & 2** – Freyberg High School (2021) <br>
-  Computer Science Merit (B+) Endorsement levels 1 & 2
+  Computer Science Merit (B+) Endorsement levels 1 & 2 <br>
   Mechanical Engineering Merit (B+) Endorsement levels 1 & 2  
 
 ---
