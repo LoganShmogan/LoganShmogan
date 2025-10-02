@@ -31,7 +31,7 @@
 - **Bachelor of ICT** – UCOL (2023–2026, Current)  <br>
   Double Major: Software Engineering & Web Development  
 - **Certificate in IT Essentials (Level 4)** – UCOL (2023)  
-- **ICT Innovation (Level 3)** – UCOL (2021)  
+- **Certificate in ICT Innovation (Level 3)** – UCOL (2021)  
 - **NCEA Level 1 & 2** – Freyberg High School (2021) <br>
   Computer Science Merit (B+) Endorsement levels 1 & 2 <br>
   Mechanical Engineering Merit (B+) Endorsement levels 1 & 2  
@@ -45,5 +45,3 @@
 - Pursue further study at the postgraduate level  
 
 ---
-
-> _“Always building, always learning — technology is a journey, not a destination.”_
