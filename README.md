@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Toolbox
 - **Languages:** C#, Python, JavaScript/TypeScript, SQL  
-- **Frameworks:** Express.js, AdonisJS, Django, Vue, React, Svelte, WPF  
+- **Frameworks:** Express.js, AdonisJS, Django, Vue, React, Svelte, WPF, .NET
 - **Databases:** SQLite, MySQL  
 - **Other:** Git/GitHub, Linux systems, Virtualization
   
