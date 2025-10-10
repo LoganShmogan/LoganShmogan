@@ -13,7 +13,6 @@
 - 🖥️ Developer — test me on **Python** and **C#**
 - 🐧 Daily driver: **Linux Pop!_OS**
 - ⌨ Keyboard: **ZSA Moonlander MK1** - no programmer is without their keyboard
-- 🎮 Gamer — **Counter Strike Amature PRO** - 🔶 [FaceIT](https://csst.at/profile/loganshmogan)
 - 📚 Exploring **cloud (Azure)**, **Machine Learning** and **Data Science** 
 - 📈 Focused on balancing **coding projects** with **snowboarding slopes**
 
