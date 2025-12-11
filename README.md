@@ -10,19 +10,19 @@ Manawatu, New Zealand
 ---
 
 ## About Me
-- Developer — test me on **Python** and **C#**
+- Developer — test me on **Python** / **C#** / **JavaScript** / **TypeScript** 
 - Daily driver: **Linux Pop!_OS**
 - Keyboard: **ZSA Moonlander MK1** - no programmer is without their keyboard
-- Exploring **cloud (Azure)**, **Machine Learning** and **Data Science** 
+- Exploring **Machine Learning** and **Data Science** 
 - Focused on balancing **coding projects** with **snowboarding slopes**
 
 ---
 
 ## Tech Toolbox
-- **Languages:** C#, Python, JavaScript/TypeScript, SQL  
-- **Frameworks:** Express.js, AdonisJS, Django, Vue, React, Svelte, WPF, .NET
+- **Languages:** C#, Python, JavaScript, TypeScript, SQL  
+- **Frameworks:** Express.js, AdonisJS, Django, Vue, React, Svelte, WPF, .NET, NEXT.js
 - **Databases:** SQLite, MySQL  
-- **Other:** Git/GitHub, Linux systems, Virtualization
+- **Other:** Git/GitHub, Linux systems, Virtualization, vercel, corvex
   
 ---
 
@@ -34,13 +34,5 @@ Manawatu, New Zealand
 - **NCEA Level 1 & 2** – Freyberg High School (2021) <br>
   Computer Science Merit (B+) Endorsement levels 1 & 2 <br>
   Mechanical Engineering Merit (B+) Endorsement levels 1 & 2  
-
----
-
-## Goals
-- Strengthen my expertise in **software engineering & data science**  
-- Continue expanding into **Machine Learning**  
-- Contribute to innovative development projects & open-source communities  
-- Pursue further study at the postgraduate level  
 
 ---
