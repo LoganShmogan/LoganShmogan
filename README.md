@@ -1,6 +1,6 @@
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/ad374b1f-b749-45ab-81bc-8a8ad98151cf)
 
-# Hey, I'm Logan
+# Hey, I'm Logan. Check out my projects!
 ---
 
 Bachelor of Information & Communication Technology (Double Major in **Software Engineering** & **Web Development**)  
@@ -10,7 +10,7 @@ Manawatu, New Zealand
 ---
 
 ## About Me
-- Developer — test me on **Python** / **C#** / **JavaScript** / **TypeScript** 
+- Developer — Working best with **JavaScript**/**TypeScript** 
 - Daily driver: **Linux Pop!_OS**
 - Keyboard: **ZSA Moonlander MK1** - no programmer is without their keyboard
 - Exploring **Machine Learning** and **Data Science** 
@@ -19,10 +19,11 @@ Manawatu, New Zealand
 ---
 
 ## Tech Toolbox
-- **Languages:** C#, Python, JavaScript, TypeScript, SQL  
+- **Proficient Languages:** C#, Python, JavaScript/TypeScript, SQL, html/css
 - **Frameworks:** Express.js, AdonisJS, Django, Vue, React, Svelte, WPF, .NET, NEXT.js
-- **Databases:** SQLite, MySQL  
-- **Other:** Git/GitHub, Linux systems, Virtualization, vercel, corvex
+- **Databases:** SQLite, MySQL
+- **Hosting/Web Services:** Vercel, Convex, Clerk, Cloudflare, +
+- **Other:** Git/GitHub, Linux systems, Virtualization, bash/zsh, +
   
 ---
 
