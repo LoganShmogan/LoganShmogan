@@ -33,6 +33,7 @@ Manawatu, New Zealand
   Industry Project: Fully custom C# staff/parent/caregiver sign-in/out system
     - Custom C# system on a raspberry pi 3b+ + 15" Touch screen + 3D print case/display stand
     - Custom Next.js Web dashboard hosted locally, viewable on anysize device.
+    - Serves custom API information to and from Xero.
     - Serves 60+ people per day, 400+ daily interactions.
 - **Certificate in IT Essentials (Level 4)** – UCOL (2023)  
 - **Certificate in ICT Innovation (Level 3)** – UCOL (2021)  
