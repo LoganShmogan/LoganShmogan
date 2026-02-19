@@ -1,11 +1,11 @@
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/ad374b1f-b749-45ab-81bc-8a8ad98151cf)
 
-# Hey, I'm Logan. Check out my projects!
+# Check out my projects!
 ---
 
 Bachelor of Information & Communication Technology (Double Major in **Software Engineering** & **Web Development**)  
 Manawatu, New Zealand  
-[Email](mailto:Younglogan09@gmail.com) | [LinkedIn](https://www.linkedin.com/in/logan-young-00ab7a327/) | [GitHub](https://github.com/LoganShmogan)
+[Email](mailto:Younglogan09@gmail.com) | [Email](mailto:logandev@savepoint.cc) | [LinkedIn](https://www.linkedin.com/in/logan-young-00ab7a327/) | [GitHub](https://github.com/LoganShmogan)
 
 ---
 
@@ -28,8 +28,8 @@ Manawatu, New Zealand
 ---
 
 ## Education
-- **Bachelor of ICT** – UCOL (2023–2026, Current)  <br>
-  Double Major: Software Engineering & Web Development  
+- **Bachelor of ICT** – UCOL (2023–2026)  <br>
+  Double Major: Software Engineering & Web Development
 - **Certificate in IT Essentials (Level 4)** – UCOL (2023)  
 - **Certificate in ICT Innovation (Level 3)** – UCOL (2021)  
 - **NCEA Level 1 & 2** – Freyberg High School (2021) <br>
