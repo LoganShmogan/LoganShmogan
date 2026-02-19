@@ -29,7 +29,11 @@ Manawatu, New Zealand
 
 ## Education
 - **Bachelor of ICT** – UCOL (2023–2026)  <br>
-  Double Major: Software Engineering & Web Development
+  Double Major: Software Engineering & Web Development <br>
+  Industry Project: Fully custom C# staff/parent/caregiver sign-in/out system
+    - Custom C# system on a raspberry pi 3b+ + 15" Touch screen + 3D print case/display stand
+    - Custom Next.js Web dashboard hosted locally, viewable on anysize device.
+    - Serves 60+ people per day, 400+ daily interactions.
 - **Certificate in IT Essentials (Level 4)** – UCOL (2023)  
 - **Certificate in ICT Innovation (Level 3)** – UCOL (2021)  
 - **NCEA Level 1 & 2** – Freyberg High School (2021) <br>
