@@ -5,7 +5,7 @@
 
 Bachelor of Information & Communication Technology (Double Major in **Software Engineering** & **Web Development**)  
 Manawatu, New Zealand  
-[Email](mailto:Younglogan09@gmail.com) | [Email](mailto:logandev@savepoint.cc) | [LinkedIn](https://www.linkedin.com/in/logan-young-00ab7a327/) | [GitHub](https://github.com/LoganShmogan)
+[Email](mailto:Younglogan09@gmail.com) | [Work Email](mailto:logandev@savepoint.cc) | [LinkedIn](https://www.linkedin.com/in/logan-young-00ab7a327/) | [GitHub](https://github.com/LoganShmogan)
 
 ---
 
