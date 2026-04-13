@@ -35,8 +35,8 @@ Manawatu, New Zealand
     - Custom Next.js Web dashboard hosted locally, viewable on anysize device.
     - Serves custom API information to and from Xero.
     - Serves 60+ people per day, 400+ daily interactions.
-- **Certificate in IT Essentials (Level 4)** – UCOL (2023)  
-- **Certificate in ICT Innovation (Level 3)** – UCOL (2021)  
+- **Certificate in IT Essentials (NZQA 4)** – UCOL (2023)  
+- **Certificate in ICT Innovation (NZQA 3)** – UCOL (2021)  
 - **NCEA Level 1 & 2** – Freyberg High School (2021) <br>
   Computer Science Merit (B+) Endorsement levels 1 & 2 <br>
   Mechanical Engineering Merit (B+) Endorsement levels 1 & 2  
