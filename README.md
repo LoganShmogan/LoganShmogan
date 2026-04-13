@@ -10,7 +10,7 @@ Manawatu, New Zealand
 ---
 
 ## About Me
-- Developer — Working best with **JavaScript**/**TypeScript** 
+- Developer — Working best with **JavaScript**/**TypeScript** and exploring **Go**
 - Daily driver: **Linux Pop!_OS**
 - Keyboard: **ZSA Moonlander MK1** - no programmer is without their keyboard
 - Exploring **Machine Learning** and **Data Science** 
@@ -31,7 +31,7 @@ Manawatu, New Zealand
 - **Bachelor of ICT** – UCOL (2023–2026)  <br>
   Double Major: Software Engineering & Web Development <br>
   Industry Project: Fully custom C# staff/parent/caregiver sign-in/out system
-    - Custom C# system on a raspberry pi 3b+ + 15" Touch screen + 3D print case/display stand
+    - Custom Python Tkinter Sign-in/out system with CRUD management build on rasp pi + touchscreen and 3d printed casing
     - Custom Next.js Web dashboard hosted locally, viewable on anysize device.
     - Serves custom API information to and from Xero.
     - Serves 60+ people per day, 400+ daily interactions.
