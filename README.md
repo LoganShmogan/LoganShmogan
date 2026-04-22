@@ -20,7 +20,7 @@ Manawatu, New Zealand
 
 ## Tech Toolbox
 - **Proficient Languages:** C#, Python, JavaScript/TypeScript, SQL, html/css
-- **Frameworks:** Express.js, AdonisJS, Django, Vue, React, Svelte, WPF, .NET, NEXT.js
+- **Frameworks:** Express.js, Django, React, WPF, .NET, NEXT.js, Tkinter, .NET MAUI
 - **Databases:** SQLite, MySQL
 - **Hosting/Web Services:** Vercel, Convex, Clerk, Cloudflare, +
 - **Other:** Git/GitHub, Linux systems, Virtualization, bash/zsh, +
