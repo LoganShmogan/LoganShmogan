@@ -37,8 +37,8 @@ Manawatu, New Zealand
 - **Certificate in IT Essentials (NZQA 4)** – UCOL (2023)  
 - **Certificate in ICT Innovation (NZQA 3)** – UCOL (2021)  
 - **NCEA Level 1 & 2** – Freyberg High School (2021) <br>
-  Computer Science Merit (B+) Endorsement levels 1 & 2 <br>
-  Mechanical Engineering Merit (B+) Endorsement levels 1 & 2  <br>
-  NZQA Vocational Pathway Award for Manufacture and Technology
+    - Computer Science Merit (B+) Endorsement levels 1 & 2 <br>
+    - Mechanical Engineering Merit (B+) Endorsement levels 1 & 2  <br>
+    - NZQA Vocational Pathway Award for Manufacture and Technology
 
 ---
