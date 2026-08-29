@@ -40,5 +40,6 @@ Manawatu, New Zealand
     - Computer Science Merit (B+) Endorsement levels 1 & 2 <br>
     - Mechanical Engineering Merit (B+) Endorsement levels 1 & 2  <br>
     - NZQA Vocational Pathway Award for Manufacture and Technology
+    - U-Skills commitment 
 
 ---
