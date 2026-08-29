@@ -10,7 +10,7 @@ Manawatu, New Zealand
 ---
 
 ## About Me
-- Software Engineer
+- Full Stack Developer
 - Linux Pop!_OS
 - ZSA Moonlander MK1
 - Focused on balancing coding projects with snowboarding slopes
