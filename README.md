@@ -1,6 +1,6 @@
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/ad374b1f-b749-45ab-81bc-8a8ad98151cf)
 
-# Check out my projects!
+# Check out my projects, and hit my links to connect!
 ---
 
 Bachelor of Information & Communication Technology (Double Major in **Software Engineering** & **Web Development**)  
@@ -10,20 +10,19 @@ Manawatu, New Zealand
 ---
 
 ## About Me
-- Developer — Working best with **JavaScript**/**TypeScript** and exploring **Go**
-- Daily driver: **Linux Pop!_OS**
-- Keyboard: **ZSA Moonlander MK1** - no programmer is without their keyboard
-- Exploring **Machine Learning** and **Data Science** 
-- Focused on balancing **coding projects** with **snowboarding slopes**
+- Software Engineer
+- Linux Pop!_OS
+- ZSA Moonlander MK1
+- Focused on balancing coding projects with snowboarding slopes
 
 ---
 
 ## Tech Toolbox
 - **Proficient Languages:** C#, Python, JavaScript/TypeScript, SQL, html/css
-- **Frameworks:** Express.js, Django, React, WPF, .NET, NEXT.js, Tkinter, .NET MAUI
-- **Databases:** SQLite, MySQL
-- **Hosting/Web Services:** Vercel, Convex, Clerk, Cloudflare, +
-- **Other:** Git/GitHub, Linux systems, Virtualization, bash/zsh, +
+- **Frameworks:** React/Nect.js, Tkinter, .NET
+- **Databases:** SQLite, MySQL, PostgreSQL
+- **Hosting/Web Services:** Vercel, Convex, Clerk, Cloudflare
+- **Other:** Git/GitHub, Linux systems, Virtualization, bash/zsh, + more
   
 ---
 
